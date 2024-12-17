@@ -1,0 +1,345 @@
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: linear-gradient(
+    180deg,
+    rgba(10, 232, 127, 1) 0%,
+    rgba(9, 140, 185, 1) 75%
+  );
+  height: 64rem;
+  position: relative;
+  overflow: hidden;
+}
+.desktop-1__rectangle-1 {
+  background: rgba(214, 248, 255, 0.69);
+  border-radius: 0.5625rem;
+  width: 90rem;
+  height: 10.3625rem;
+  position: absolute;
+  left: 0rem;
+  top: 0rem;
+}
+.desktop-1__group-6 {
+  position: absolute;
+  inset: 0;
+}
+.desktop-1__rectangle-19 {
+  background: rgba(214, 248, 255, 0.69);
+  border-radius: 1.0625rem;
+  width: 41.2175rem;
+  height: 12.4375rem;
+  position: absolute;
+  left: 25.228125rem;
+  top: 13.733125rem;
+}
+.desktop-1__close-up-heat-pump-outside-home-1-1 {
+  border-radius: 0.6875rem;
+  width: 39.41125rem;
+  height: 11.625rem;
+  position: absolute;
+  left: 26.131875rem;
+  top: 14.108125rem;
+  object-fit: cover;
+}
+.desktop-1__servicios-y-productos {
+  color: rgba(205, 205, 205, 0.5);
+  text-align: center;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 2.1875rem;
+  letter-spacing: 0.3em;
+  font-weight: 800;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 15.295625rem;
+  width: 35.006875rem;
+  height: 9.625rem;
+  -webkit-text-stroke: 0.0625rem rgba(223, 208, 208, 0.81);
+}
+.desktop-1__group-4 {
+  position: absolute;
+  inset: 0;
+}
+.desktop-1__rectangle-9 {
+  border-radius: 0rem;
+  width: 41.845625rem;
+  height: 10.75875rem;
+  position: absolute;
+  left: 46.03125rem;
+  top: 32.77875rem;
+  overflow: visible;
+}
+.desktop-1__close-up-heat-pump-outside-home-3 {
+  width: 15.591875rem;
+  height: 7.9425rem;
+  position: absolute;
+  left: 48.55375rem;
+  top: 34.223125rem;
+  object-fit: cover;
+}
+.desktop-1__en-frigo-servicios-brindamos-refrigeraci-n-industrial-a-medida-con-calidad-y-eficiencia {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -19.145625rem);
+  top: calc(50% - -5.183125rem);
+  width: 22.585625rem;
+  height: 2.599375rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-text-stroke: 0.0625rem rgba(0, 0, 0, 0);
+}
+.desktop-1__group-3 {
+  position: absolute;
+  inset: 0;
+}
+.desktop-1__rectangle-20 {
+  border-radius: 0rem;
+  width: 41.06875rem;
+  height: 11.54625rem;
+  position: absolute;
+  left: 2.775rem;
+  top: 32.849375rem;
+  overflow: visible;
+}
+.desktop-1__image-9 {
+  width: 16.4275rem;
+  height: 9.531875rem;
+  position: absolute;
+  left: 25.72875rem;
+  top: 33.934375rem;
+  object-fit: cover;
+}
+.desktop-1__equipo-experto-y-tecnolog-a-avanzada-para-m-xima-calidad-en-refrigeraci-n {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 41.9375rem);
+  top: calc(50% - -5.435rem);
+  width: 22.165625rem;
+  height: 2.79rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-text-stroke: 0.0625rem rgba(0, 0, 0, 0);
+}
+.desktop-1__rectangle-3 {
+  background: rgba(214, 248, 255, 0.69);
+  border-radius: 0.875rem;
+  width: 90rem;
+  height: 19.584375rem;
+  position: absolute;
+  left: 0rem;
+  top: 46.716875rem;
+}
+.desktop-1__ubicanos {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 0.875rem;
+  letter-spacing: 0.3em;
+  font-weight: 400;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 55.983125rem;
+  width: 9.703125rem;
+  height: 0.78875rem;
+  -webkit-text-stroke: 0.0625rem #000000;
+}
+.desktop-1__contactanos {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 0.875rem;
+  letter-spacing: 0.3em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 31.614375rem);
+  top: 55.983125rem;
+  width: 10.363125rem;
+  height: 0.78875rem;
+  -webkit-text-stroke: 0.0625rem #000000;
+}
+.desktop-1__correo {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 0.875rem;
+  letter-spacing: 0.3em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -26.158125rem);
+  top: 55.9525rem;
+  width: 15.5725rem;
+  height: 0.78875rem;
+  -webkit-text-stroke: 0.0625rem #000000;
+}
+.desktop-1___34-912-345-678 {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 0.875rem;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 39.5775rem);
+  top: calc(50% - -25.77625rem);
+  width: 26.335625rem;
+  height: 1.00375rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-text-stroke: 0.0625rem rgba(0, 0, 0, 0);
+}
+.desktop-1__calle-mayor-123-madrid-espa-a {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 0.875rem;
+  font-weight: 400;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - -25.274375rem);
+  width: 14.4275rem;
+  height: 1.00375rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-text-stroke: 0.0625rem rgba(0, 0, 0, 0);
+}
+.desktop-1__frigoservicios-gamil-com {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 0.875rem;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -26.984375rem);
+  top: calc(50% - -24.8275rem);
+  width: 13.640625rem;
+  height: 1.76875rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-text-stroke: 0.0625rem rgba(0, 0, 0, 0);
+}
+.desktop-1___2024-frigo-servicios-todos-los-derechos-reservados {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 1rem;
+  letter-spacing: 0.3em;
+  font-weight: 400;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 61.27375rem;
+  width: 77.8625rem;
+  height: 0.716875rem;
+  -webkit-text-stroke: 0.0625rem #000000;
+}
+.desktop-1__image-11 {
+  border-radius: 0.625rem;
+  width: 4.375rem;
+  height: 4.301875rem;
+  position: absolute;
+  left: calc(50% - -2.655625rem);
+  top: 50.254375rem;
+  object-fit: cover;
+}
+.desktop-1__rectangle-21 {
+  background: linear-gradient(
+    90deg,
+    rgba(0, 232, 122, 0.94) 10.000000149011612%,
+    rgba(0, 118, 192, 0.94) 28.999999165534973%
+  );
+  border-radius: 1.0625rem;
+  width: 83.328125rem;
+  height: 6.56625rem;
+  position: absolute;
+  left: 2.37875rem;
+  top: 1.18125rem;
+  transform-origin: 0 0;
+  transform: rotate(0.314deg) scale(1, 1);
+}
+.desktop-1__group-7 {
+  position: absolute;
+  inset: 0;
+}
+.desktop-1__image-5 {
+  border-radius: 14.8125rem;
+  width: 3.125rem;
+  height: 3.125rem;
+  position: absolute;
+  left: 81.639375rem;
+  top: 3.38625rem;
+  object-fit: cover;
+}
+.desktop-1__image-112 {
+  border-radius: 2.625rem;
+  width: 11.87625rem;
+  height: 3.735rem;
+  position: absolute;
+  left: 68.615625rem;
+  top: 2.98625rem;
+  object-fit: cover;
+}
+.desktop-1__hambur {
+  position: absolute;
+  inset: 0;
+}
+.desktop-1__rectangle-15 {
+  background: #ffffff;
+  border-radius: 1.0625rem;
+  width: 6.205625rem;
+  height: 3.569375rem;
+  position: absolute;
+  left: 7.90125rem;
+  top: 2.908125rem;
+}
+.desktop-1__rectangle-17 {
+  background: linear-gradient(
+    90deg,
+    rgba(9, 232, 128, 1) 0%,
+    rgba(9, 125, 194, 1) 75%
+  );
+  width: 3.27625rem;
+  height: 0.31625rem;
+  position: absolute;
+  left: 9.365625rem;
+  top: 4.534375rem;
+}
+.desktop-1__rectangle-16 {
+  background: linear-gradient(
+    90deg,
+    rgba(9, 232, 128, 1) 0%,
+    rgba(9, 125, 194, 1) 75%
+  );
+  width: 3.27625rem;
+  height: 0.31625rem;
+  position: absolute;
+  left: 9.365625rem;
+  top: 5.311875rem;
+}
+.desktop-1__rectangle-18 {
+  background: linear-gradient(
+    90deg,
+    rgba(9, 232, 128, 1) 0%,
+    rgba(9, 125, 194, 1) 75%
+  );
+  width: 3.27625rem;
+  height: 0.31625rem;
+  position: absolute;
+  left: 9.365625rem;
+  top: 3.7575rem;
+}
